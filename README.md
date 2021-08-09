@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valpersam" alt="valpersam" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando na [Compasso UOL](https://www.linkedin.com/company/compasso-uol/mycompany/)
+- 🔭 Atualmente estou trabalhando na [Mandic](https://www.linkedin.com/company/mandic/mycompany/)
 
-- 🌱 Atualmente estou aprendendo **Ansible e Kubernetes**
+- 🌱 Atualmente estou aprendendo **Ansible e Terraform**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
