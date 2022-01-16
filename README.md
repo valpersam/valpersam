@@ -7,7 +7,7 @@
 
 - 🔭 Atualmente estou trabalhando na [PagSeguro](https://www.linkedin.com/company/pagbank-pagseguro/mycompany/)
 
-- 🌱 Atualmente estou aprendendo **Ansible e Terraform**
+- 🌱 Continuo aprendizado sobre **Ansible e Terraform**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
