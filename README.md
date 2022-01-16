@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valpersam" alt="valpersam" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando na [Mandic](https://www.linkedin.com/company/mandic/mycompany/)
+- 🔭 Atualmente estou trabalhando na [PagSeguro](https://www.linkedin.com/company/pagbank-pagseguro/mycompany/)
 
 - 🌱 Atualmente estou aprendendo **Ansible e Terraform**
 
